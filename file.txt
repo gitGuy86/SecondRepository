@@ -5,4 +5,6 @@ check
 test1
 common
 check
-
+same
+to
+same
