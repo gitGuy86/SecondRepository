@@ -1,2 +1,4 @@
 check
 test
+common
+check
